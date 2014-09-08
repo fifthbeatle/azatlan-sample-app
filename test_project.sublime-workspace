@@ -1,0 +1,317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sampl",
+				"SampleText"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1658,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"consol",
+				"Set Syntax: R Console"
+			],
+			[
+				"",
+				"Build: Build"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 277.0,
+		"history":
+		[
+			"2+3",
+			"print \"hello world\";",
+			"print \"hello world\"",
+			"hello world",
+			"print 'hi'",
+			"print \"hi\"",
+			"print",
+			"exit",
+			"logout",
+			"quit",
+			"exit()",
+			"print \"hello world\";",
+			"print \"hello world\"",
+			"2+4",
+			"print \"hllw world\""
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Python27/new1.py",
+		"/C/Python27/Staging_Data7.csv",
+		"/C/Ruby200/rails_projects/sample_app/README.md",
+		"/C/Python27/new2.py",
+		"/C/Python27/Staging_Data6.csv",
+		"/C/Ruby200/rails_projects/sample_app/Gemfile",
+		"/C/Ruby200/rails_projects/sample_app/config/initializers/secret_token.rb",
+		"/C/Ruby200/rails_projects/sample_app/.gitignore",
+		"/C/Ruby200/rails_projects/demo_app/config/routes.rb",
+		"/C/Ruby200/rails_projects/demo_app/app/models/user.rb",
+		"/C/Python27/Get_All_Play_Batting.py",
+		"/C/Ruby200/rails_projects/demo_app/app/models/micropost.rb",
+		"/C/Ruby200/rails_projects/demo_app/.gitignore",
+		"/C/Ruby200/rails_projects/demo_app/Gemfile",
+		"/C/Ruby200/rails_projects/demo_app/app/controllers/users_controller.rb",
+		"/C/Python27/c.py",
+		"/C/Python27/b.py",
+		"/C/JavaScript/test.html",
+		"/C/Ruby200/first_app/README.md",
+		"/C/Users/IBM_ADMIN/Documents/SublimeText/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Ruby200/first_app/Gemfile",
+		"/C/Ruby200/first_app/.gitignore",
+		"/C/Ruby200/MyTestProject/first_app/Gemfile",
+		"/C/Siebel/8.1/Client_1/LOG/siebel.log",
+		"/C/Python27/CricketData/Bat_Innings_ODIS.csv",
+		"/C/Python27/Tests_CloseOfPlay.csv",
+		"/C/Users/IBM_ADMIN/Documents/SublimeText/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/IBM_ADMIN/Documents/SublimeText/Data/Packages/User/Plain text.sublime-settings",
+		"/C/Users/IBM_ADMIN/Documents/Mobinil/Accounts.xml",
+		"/C/Ruby200/Test.rb",
+		"/C/Users/IBM_ADMIN/Documents/Cricket/Rajneesh/Comments_Arnold",
+		"/C/Python27/CricketData/Bat_Innings_Test.csv",
+		"/C/Python27/Get_All_Play_Two_Lines.py",
+		"/C/Python27/Staging_Data14.csv",
+		"/C/Python27/Staging_Data20.csv",
+		"/C/Python27/Staging_Data20.csv.xls",
+		"/C/Python27/Staging_Data13.csv",
+		"/C/Python27/Staging_Data9.csv",
+		"/C/Users/IBM_ADMIN/Documents/SublimeText/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/IBM_ADMIN/Documents/SublimeText/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Python27/Staging_Data4.csv",
+		"/C/Python27/Staging_Data3.csv",
+		"/C/Python27/Staging_Data2.csv",
+		"/C/Python27/Staging_Data4",
+		"/C/Users/IBM_ADMIN/Documents/Cricket/Rajneesh/text.rb",
+		"/C/Python27/text.py",
+		"/C/Users/IBM_ADMIN/Documents/Mobinil/Oracle Training.c",
+		"/C/Users/IBM_ADMIN/Documents/Cricket/Cricketers who played other sports.txt",
+		"/C/Python27/text1.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"process definition",
+			" = .*",
+			" = .*\\)	",
+			"	",
+			" 	",
+			" 	investigate this query",
+			"Bannerman",
+			"27",
+			"%3D",
+			"%3B",
+			"Port of Spain",
+			"Port of Spain,29 Mar 1985",
+			"Port of Spain",
+			"delete",
+			"\n	",
+			"46945",
+			"']",
+			"South Africa",
+			"Australia",
+			"England",
+			"v ",
+			"--------------",
+			"Member does not have sufficient number of points available to redeem",
+			"LOY Accrual Item Locator",
+			"Member does not have sufficient number of points available to redeem",
+			"Error	1",
+			"Executing process definition",
+			"Instantiating",
+			"Instantiate",
+			"Executing process definition",
+			"v "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			",",
+			"",
+			"=",
+			";",
+			"",
+			"SA",
+			"Aus",
+			"Eng",
+			"v. ",
+			"",
+			"v. "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 276.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "test_project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
