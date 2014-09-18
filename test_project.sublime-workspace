@@ -12,66 +12,49 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Python27/new2.py",
+			"contents": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><?Siebel-Property-Set EscapeNames=\"true\"?><PropertySet\n><Attributes\n><Attr\n Value=\"\"\n Id=\"9SIA-8JG65\"\n Display_spcName=\"Network Availability Number\"\n Attribute_spcId=\"8SIA-70X7Y\"\n Order_spcItem_spcId=\"9SIA-8JG61\"\n Prev_spcOrder_spcItem_spcId=\"9SIA-8JF7E\"\n Delta=\"\"\n></Attr\n><Attr\n Value=\"123\"\n Id=\"9SIA-8JG66\"\n Display_spcName=\"Area Code\"\n Attribute_spcId=\"3SIA-2KAFS\"\n Order_spcItem_spcId=\"9SIA-8JG63\"\n Prev_spcOrder_spcItem_spcId=\"9SIA-8JF7H\"\n Delta=\"\"\n></Attr\n><Attr\n Value=\"3333555\"\n Value_undOLD=\"3333344\"\n Id=\"9SIA-8JG67\"\n Display_spcName=\"Call Hunt Sequence Number\"\n Attribute_spcId=\"3SIA-2KAFR\"\n Order_spcItem_spcId=\"9SIA-8JG63\"\n Prev_spcOrder_spcItem_spcId=\"9SIA-8JF7H\"\n Delta=\"MOD\"\n></Attr\n><Attr\n Value=\"32329666\"\n Value_undOLD=\"32329999\"\n Id=\"9SIA-8JG68\"\n Display_spcName=\"Ring List Sequence Number\"\n Attribute_spcId=\"3SIA-2KAFQ\"\n Order_spcItem_spcId=\"9SIA-8JG63\"\n Prev_spcOrder_spcItem_spcId=\"9SIA-8JF7H\"\n Delta=\"MOD\"\n></Attr\n></Attributes\n><Items\n><Row\n Id=\"9SIA-8JG5Z\"\n Asset_spcIntegration_spcId=\"9SIA-8JF6S\"\n Asset_spcNumber=\"\"\n Hold_spcReason=\"\"\n Service_spcId=\"\"\n Quantity_spcRequested=\"1\"\n Asset_spcNumber_undOLD=\"456850-14243902\"\n Billing_spcAccount_spcId=\"1-63Q9\"\n Due_spcDate=\"09/13/2014 00:00:00\"\n Product=\"Basic VoIP Package\"\n Order_spcHeader_spcId=\"9SIA-8JG5V\"\n Delta=\"MOD\"\n Description=\"\"\n Action_spcCode=\"Add\"\n DeltaFields=\"|Asset Number\"\n Prev_spcId=\"9SIA-8JF6S\"\n></Row\n><Row\n Id=\"9SIA-8JG60\"\n Asset_spcIntegration_spcId=\"9SIA-8JF6W\"\n Asset_spcNumber=\"456850-14299082\"\n Hold_spcReason=\"No Printing\"\n Service_spcId=\"88888\"\n Quantity_spcRequested=\"1\"\n Hold_spcReason_undOLD=\"\"\n Asset_spcNumber_undOLD=\"\"\n Description_undOLD=\"TestXBBA\"\n Service_spcId_undOLD=\"12345\"\n Billing_spcAccount_spcId=\"1-63Q9\"\n Due_spcDate=\"09/13/2014 00:00:00\"\n Product=\"VoIP Service\"\n Order_spcHeader_spcId=\"9SIA-8JG5V\"\n Delta=\"MOD\"\n Description=\"\"\n Action_spcCode=\"Add\"\n DeltaFields=\"|Service Id|Hold Reason|Asset Number|Description\"\n Prev_spcId=\"9SIA-8JF6W\"\n></Row\n><Row\n Id=\"9SIA-8JG61\"\n Asset_spcIntegration_spcId=\"9SIA-8JF7E\"\n Asset_spcNumber=\"\"\n Hold_spcReason=\"\"\n Service_spcId=\"\"\n Quantity_spcRequested=\"1\"\n Billing_spcAccount_spcId=\"1-63Q9\"\n Due_spcDate=\"09/13/2014 00:00:00\"\n Product=\"Basic VoIP\"\n Order_spcHeader_spcId=\"9SIA-8JG5V\"\n Delta=\"\"\n Description=\"\"\n Action_spcCode=\"Add\"\n DeltaFields=\"\"\n Prev_spcId=\"9SIA-8JF7E\"\n></Row\n><Row\n Id=\"9SIA-8JG62\"\n Asset_spcIntegration_spcId=\"9SIA-8JF7G\"\n Asset_spcNumber=\"\"\n Hold_spcReason=\"\"\n Service_spcId=\"\"\n Quantity_spcRequested=\"1\"\n Billing_spcAccount_spcId=\"1-63Q9\"\n Due_spcDate=\"09/13/2014 00:00:00\"\n Product=\"VoIP Connection Charge\"\n Order_spcHeader_spcId=\"9SIA-8JG5V\"\n Delta=\"\"\n Description=\"\"\n Action_spcCode=\"Add\"\n DeltaFields=\"\"\n Prev_spcId=\"9SIA-8JF7G\"\n></Row\n><Row\n Id=\"9SIA-8JG63\"\n Asset_spcIntegration_spcId=\"9SIA-8JF7H\"\n Asset_spcNumber=\"\"\n Hold_spcReason=\"\"\n Service_spcId=\"\"\n Quantity_spcRequested=\"1\"\n Billing_spcAccount_spcId=\"1-63Q9\"\n Due_spcDate=\"09/13/2014 00:00:00\"\n Product=\"VoIP Telephone Number\"\n Order_spcHeader_spcId=\"9SIA-8JG5V\"\n Delta=\"\"\n Description=\"\"\n Action_spcCode=\"Add\"\n DeltaFields=\"\"\n Prev_spcId=\"9SIA-8JF7H\"\n></Row\n><Row\n Id=\"9SIA-8JG64\"\n Asset_spcIntegration_spcId=\"9SIA-8JF7Y\"\n Asset_spcNumber=\"\"\n Hold_spcReason=\"\"\n Service_spcId=\"12345\"\n Quantity_spcRequested=\"1\"\n Asset_spcNumber_undOLD=\"456850-14270185\"\n Description_undOLD=\"Test ABC\"\n Billing_spcAccount_spcId=\"1-63Q9\"\n Due_spcDate=\"09/13/2014 00:00:00\"\n Product=\"VoIP Adaptor\"\n Order_spcHeader_spcId=\"9SIA-8JG5V\"\n Delta=\"MOD\"\n Description=\"\"\n Action_spcCode=\"Add\"\n DeltaFields=\"|Asset Number|Description\"\n Prev_spcId=\"9SIA-8JF7Y\"\n></Row\n><Row\n Id=\"9SIA-8JG8P\"\n Asset_spcIntegration_spcId=\"9SIA-8JG8P\"\n Asset_spcNumber=\"\"\n Hold_spcReason=\"\"\n Service_spcId=\"\"\n Quantity_spcRequested=\"1\"\n Billing_spcAccount_spcId=\"1-63Q9\"\n Due_spcDate=\"09/13/2014 00:00:00\"\n Product=\"DSL Installation\"\n Order_spcHeader_spcId=\"9SIA-8JG5V\"\n Delta=\"ADD\"\n Description=\"\"\n Action_spcCode=\"Add\"\n></Row\n><Row\n Id=\"9SIA-8JEHP\"\n Asset_spcNumber=\"\"\n Asset_spcIntegration_spcId=\"9SIA-8JEHP\"\n Hold_spcReason=\"\"\n Quantity_spcRequested=\"1\"\n Service_spcId=\"12345\"\n Billing_spcAccount_spcId=\"1-63Q9\"\n Due_spcDate=\"09/13/2014 00:00:00\"\n Order_spcHeader_spcId=\"9SIA-8JEHM\"\n Product=\"DSL Modem\"\n Action_spcCode=\"Add\"\n Description=\"\"\n Delta=\"DEL\"\n></Row\n></Items\n><Header\n><Header\n Id=\"9SIA-8JG5V\"\n Revision=\"2\"\n Cancel_spcReason=\"\"\n Service_spcRequest_spcNumber_undOLD=\"1-237701\"\n Service_spcRequest_spcNumber=\"1-246443\"\n Change_spcReason=\"Competitor offers lower price\"\n Approved=\"N\"\n Hold_spcFlag=\"N\"\n Change_spcReason_undOLD=\"No Reason\"\n Order_spcNumber=\"456850-14342170\"\n Billing_spcAccount_spcId=\"1-63Q9\"\n Description=\"\"\n Delta=\"MOD\"\n DeltaFields=\"|Change Reason|Service Request Number\"\n></Header\n></Header\n></PropertySet\n>",
+			"file": "/C/Siebel/8.1/Client_1/LOG/abc.xml",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
-				"buffer_size": 453,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Python27/new3.py",
-			"settings":
-			{
-				"buffer_size": 774,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/helpers/application_helper.rb",
-			"settings":
-			{
-				"buffer_size": 199,
+				"buffer_size": 4779,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "<!DOCTYPE html>\n<html>\n<head>\n  <title></title>\n  <%= stylesheet_link_tag    \"application\", media: \"all\", \"data-turbolinks-track\" => true %>\n  <%= javascript_include_tag \"application\", \"data-turbolinks-track\" => true %>\n  <%= csrf_meta_tags %>\n</head>\n<body>\n\n<%= yield %>\n\n</body>\n</html>\n",
-			"file": "app/views/layouts/application.html.erb",
-			"file_size": 360,
-			"file_write_time": 130546762782048838,
+			"file": "/C/Ruby200/rails_projects/azatlan/Gemfile",
 			"settings":
 			{
-				"buffer_size": 290,
-				"line_ending": "Windows"
+				"buffer_size": 567,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/Python27/Staging_Data7.csv",
+			"file": "/C/Ruby200/rails_projects/azatlan/config/initializers/secret_token.rb",
 			"settings":
 			{
-				"buffer_size": 5574,
-				"line_ending": "Windows"
+				"buffer_size": 866,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/Python27/Staging_Data6.csv",
+			"file": "/C/Ruby200/rails_projects/azatlan/.gitignore",
 			"settings":
 			{
-				"buffer_size": 77497,
-				"line_ending": "Windows"
+				"buffer_size": 254,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/Python27/Staging_Data14.csv",
+			"file": "/C/Ruby200/rails_projects/azatlan/README.md",
 			"settings":
 			{
-				"buffer_size": 232774,
-				"line_ending": "Windows"
+				"buffer_size": 202,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "",
 			"settings":
 			{
 				"buffer_size": 0,
@@ -82,9 +65,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 81.0,
+		"height": 58.0,
 		"selected_items":
 		[
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
 			[
 				"snipp",
 				"Set Syntax: Regular Expressions (Python)"
@@ -137,24 +124,45 @@
 	},
 	"file_history":
 	[
-		"/C/Users/IBM_ADMIN/Documents/SublimeText/Data/Packages/User/eScript.sublime-snippet",
+		"/C/Python27/Staging_Data7.csv",
+		"/C/Python27/Staging_Data20.csv",
+		"/C/Python27/Get_All_Play_Two_Lines.py",
 		"/C/Python27/Get_All_Play_Batting.py",
+		"/C/Python27/new4.py",
 		"/C/Users/IBM_ADMIN/Documents/SublimeText/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Python27/Staging_Data8.csv",
+		"/C/Python27/CricketData/Bat_Innings_Test.csv",
+		"/C/Siebel/8.1/Client_1/LOG/Outputs.log",
+		"/C/Siebel/8.1/Client_1/LOG/Inputs.log",
+		"/C/Python27/new3.py",
+		"/C/Ruby200/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/C/Users/IBM_ADMIN/Documents/SublimeText/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Python27/new2.py",
+		"/C/Python27/Get_All_Partnerships.py",
+		"/C/Python27/Staging_Data13.csv",
+		"/C/Python27/Staging_Data14.csv",
+		"/C/Siebel/8.1/Client_1/LOG/abc.xml",
+		"/C/Python27/b.csv",
+		"/C/Python27/a.csv",
+		"/C/Ruby200/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/C/Ruby200/rails_projects/sample_app/app/views/layouts/application.html.erb",
 		"/C/Ruby200/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/C/Ruby200/rails_projects/sample_app/example_user.rb",
+		"/C/Ruby200/rails_projects/sample_app/app/assets/stylesheets/application.css",
+		"/C/Users/IBM_ADMIN/Documents/SublimeText/Data/Packages/User/RSTT Output.sublime-snippet",
+		"/C/Users/IBM_ADMIN/Documents/SublimeText/Data/Packages/User/eScript.sublime-snippet",
+		"/C/Python27/Staging_Data6.csv",
+		"/C/Siebel/8.1/Client_1/LOG/9SIA-ID8N.dmp",
+		"/C/Siebel/8.1/Client_1/LOG/9SIA-IDBF.dmp",
 		"/C/Ruby200/rails_projects/sample_app/Gemfile",
 		"/C/Ruby200/rails_projects/sample_app/app/views/static_pages/about.html.erb",
-		"/C/Ruby200/rails_projects/sample_app/app/views/layouts/application.html.erb",
 		"/C/Ruby200/rails_projects/sample_app/app/views/static_pages/help.html.erb",
 		"/C/Ruby200/rails_projects/sample_app/Guardfile",
-		"/C/Ruby200/rails_projects/sample_app/app/views/static_pages/home.html.erb",
 		"/C/Ruby200/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
 		"/C/Ruby200/rails_projects/sample_app/config/routes.rb",
 		"/C/Ruby200/rails_projects/sample_app/spec/spec_helper.rb",
 		"/C/Python27/new1.py",
-		"/C/Python27/Staging_Data7.csv",
 		"/C/Ruby200/rails_projects/sample_app/README.md",
-		"/C/Python27/new2.py",
-		"/C/Python27/Staging_Data6.csv",
 		"/C/Ruby200/rails_projects/sample_app/config/initializers/secret_token.rb",
 		"/C/Ruby200/rails_projects/sample_app/.gitignore",
 		"/C/Ruby200/rails_projects/demo_app/config/routes.rb",
@@ -173,17 +181,11 @@
 		"/C/Siebel/8.1/Client_1/LOG/siebel.log",
 		"/C/Python27/CricketData/Bat_Innings_ODIS.csv",
 		"/C/Python27/Tests_CloseOfPlay.csv",
-		"/C/Users/IBM_ADMIN/Documents/SublimeText/Data/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/IBM_ADMIN/Documents/SublimeText/Data/Packages/User/Plain text.sublime-settings",
 		"/C/Users/IBM_ADMIN/Documents/Mobinil/Accounts.xml",
 		"/C/Ruby200/Test.rb",
 		"/C/Users/IBM_ADMIN/Documents/Cricket/Rajneesh/Comments_Arnold",
-		"/C/Python27/CricketData/Bat_Innings_Test.csv",
-		"/C/Python27/Get_All_Play_Two_Lines.py",
-		"/C/Python27/Staging_Data14.csv",
-		"/C/Python27/Staging_Data20.csv",
 		"/C/Python27/Staging_Data20.csv.xls",
-		"/C/Python27/Staging_Data13.csv",
 		"/C/Python27/Staging_Data9.csv",
 		"/C/Users/IBM_ADMIN/Documents/SublimeText/Data/Packages/Default/Default (Windows).sublime-keymap",
 		"/C/Users/IBM_ADMIN/Documents/SublimeText/Data/Packages/User/Default (Windows).sublime-keymap",
@@ -199,7 +201,7 @@
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -210,9 +212,21 @@
 	},
 	"find_state":
 	{
-		"case_sensitive": true,
+		"case_sensitive": false,
 		"find_history":
 		[
+			"Display_spcName",
+			"Search Specification = {Row.Order Item Id} = {Match.Order Item Id}",
+			"Razza",
+			"Taylor",
+			"Sami",
+			"Younis",
+			"Warne",
+			"{Row.Processed} = 'N' AND {Row.Source} = 'Header'",
+			"{Row.Processed} = 'N' AND {Row.Source} = 'Item'",
+			"{Output Row Set} += {Row}",
+			"{Row.Processed} = 'N' AND {Row.Source} = 'Item'",
+			" \\(.*\\)",
 			"'",
 			"TDNB",
 			"DNB",
@@ -249,11 +263,12 @@
 			"v "
 		],
 		"highlight": true,
-		"in_selection": true,
+		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"",
 			"\"",
 			"",
 			",",
@@ -277,61 +292,71 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Python27/new2.py",
+					"file": "/C/Siebel/8.1/Client_1/LOG/abc.xml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 453,
+						"buffer_size": 4779,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								213,
-								213
+								141,
+								156
+							],
+							[
+								349,
+								364
+							],
+							[
+								567,
+								582
+							],
+							[
+								806,
+								821
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/XML/XML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1187.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Python27/new3.py",
+					"file": "/C/Ruby200/rails_projects/azatlan/Gemfile",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 774,
+						"buffer_size": 567,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								309,
-								309
+								191,
+								191
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
-						"translation.x": 0.0,
+						"translation.x": -0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -340,19 +365,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "app/helpers/application_helper.rb",
+					"file": "/C/Ruby200/rails_projects/azatlan/config/initializers/secret_token.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 199,
+						"buffer_size": 866,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								199,
-								199
+								645,
+								645
 							]
 						],
 						"settings":
@@ -363,80 +388,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/views/layouts/application.html.erb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 290,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								251,
-								251
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Python27/Staging_Data7.csv",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5574,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "/C/Python27/Staging_Data6.csv",
+					"buffer": 3,
+					"file": "/C/Ruby200/rails_projects/azatlan/.gitignore",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 77497,
+						"buffer_size": 254,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								64185,
-								64180
+								162,
+								162
 							]
 						],
 						"settings":
@@ -444,42 +413,42 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 26089.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Python27/Staging_Data14.csv",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 232774,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								35811,
-								35815
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 628.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 4,
+					"file": "/C/Ruby200/rails_projects/azatlan/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
 					"semi_transient": false,
 					"settings":
 					{
@@ -496,14 +465,13 @@
 						],
 						"settings":
 						{
-							"auto_name": "",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -511,7 +479,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -551,7 +519,7 @@
 	"project": "test_project.sublime-project",
 	"replace":
 	{
-		"height": 66.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -583,7 +551,7 @@
 	{
 	},
 	"show_minimap": true,
-	"show_open_files": true,
+	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": false,
 	"side_bar_width": 176.0,
